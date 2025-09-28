@@ -9,3 +9,12 @@ This certificate covers:
 - Multivariable functions  
 - Partial derivatives  
 - Gradient  
+
+
+-------------
+
+## Optimization Algorithms
+
+📜 **Certificate**: [View on CodeSignal](https://codesignal.com/learn/certificates/cluw53t3c0000ny6ld05jtxll/courses/390)  
+
+📂 **Learning Content**: [Jupyter Notebook](https://github.com/Faizan-Rashid/Deep-Learning/blob/main/optimization_algorithms.ipynb)  
