@@ -33,3 +33,13 @@ This certificate covers:
 | **Basic Matrix Operations** | - Matrix addition, subtraction, and scalar operations <br> - Matrix transposition | Enables you to manipulate multi-dimensional data, transform coordinates, and preprocess datasets. |
 | **Dot Product & Matrix Multiplication** | - Dot product between vectors <br> - Matrix × vector and matrix × matrix operations <br> - Compatibility checks for multiplication | Powers most ML algorithms — from linear regression and gradient computation to deep neural network layers. |
 | **Determinant & Linear Dependency** | - Determinant computation <br> - Meaning of zero determinant <br> - Detecting linear dependency between vectors | Helps determine if a system of linear equations is solvable, and understand rank and independence — key for optimization and dimensionality reduction. |
+
+-------------
+
+
+## Optimization Algorithms
+
+📜 **Certificate**: [View on Kaggle](https://www.kaggle.com/learn/certification/phaixan/pandas)  
+
+📂 **Learning Content**: [Jupyter Notebook](https://github.com/Faizan-Rashid/pandas-lab-notebooks/blob/main/pandas.ipynb)  
+
