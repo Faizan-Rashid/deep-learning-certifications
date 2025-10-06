@@ -37,7 +37,7 @@ This certificate covers:
 -------------
 
 
-## Optimization Algorithms
+## Pandas
 
 📜 **Certificate**: [View on Kaggle](https://www.kaggle.com/learn/certification/phaixan/pandas)  
 
